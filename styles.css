@@ -1,0 +1,40 @@
+h1 {
+    color: blue;
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+}
+
+.card {
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+    margin: 5px;
+}
+
+#card {
+    border: 3px solid black;
+    min-width: 400px;
+    min-height: 200px;
+    font-size: 30px;
+    font-family: helvetica;
+  }
+  
+  .card_header {
+    margin-left: 10px;
+  }
+  
+  .card_text {
+    margin-top: 35px;
+    text-align: center;
+    font-style: italic;
+  }
+  
+  .contact {
+    margin-top: 35px;
+    margin-right: 10px;
+    text-align: right;
+    font-style: bold;
+  }

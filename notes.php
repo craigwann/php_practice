@@ -1,0 +1,1 @@
+function addFive($a_number){ $sum = 5 + $a_number; return $sum; }
